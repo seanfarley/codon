@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "llvm/ADT/APFloat.h"
+
 #include <functional>
 #include <memory>
 #include <string>

@@ -2,11 +2,11 @@
 
 #pragma once
 
+#include "codon/cir/llvm/llvm.h"
 #include <mutex>
 #include <utility>
 #include <vector>
 
-#include "codon/cir/llvm/llvm.h"
 
 namespace codon {
 
